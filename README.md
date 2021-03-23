@@ -6,7 +6,7 @@
 * `sudo apt install postgresql postgresql-contrib`
 
 ## start postgres shell
-* `psql -h localhost -U postgres`
+* `sudo -u postgres psql`
 * `pass= root`
 
 ## Basic postgres commands
