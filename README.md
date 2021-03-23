@@ -20,6 +20,14 @@
 * `\dv`: List views
 * `\timing`: Show query timing stats
 
+## postgres status
+
+* `sudo service postgresql start`
+* `sudo service postgresql stop`
+* `sudo service postgresql status`
+* `sudo service postgresql restart`
+* `sudo service postgresql reload`
+
 ---
 > ## contact 💬
 
